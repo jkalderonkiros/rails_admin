@@ -127,8 +127,8 @@ en:
       bulk_delete: "The following objects will be deleted, which may delete or orphan some of their related dependencies:"
       new_model: "%{name} (new)"
     export:
-      confirmation: "Export to %{name}"
-      select: "Select fields to export"
+      confirmation: "Exportsss to %{name}"
+      select: "Selectsss fields to export"
       select_all_fields: "Select All Fields"
       fields_from: "Fields from %{name}"
       fields_from_associated: "Fields from associated %{name}"
